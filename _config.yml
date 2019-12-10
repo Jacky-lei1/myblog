@@ -1,13 +1,13 @@
 # Site settings
 title: 绿野蓝杉的主页
-description: 一个技术爱好者的主页
+description: 一个技术爱好者的个人空间
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: 绿 野 蓝 杉
 user_description: 一个热爱技术和音乐的视频博主
-user_title: Software Developer
+user_title: 音乐 科技
 email: lvyelanshan@gmail.com
 twitter_username: lvyelanshan
 github_username:  Jacky-lei1
