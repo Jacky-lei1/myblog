@@ -33,8 +33,7 @@ $(function () {
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXplV01PZHMxZlZtcmJ3P2U9OGJoa3pR.mp4',
             type: 'video/mp4',
             poster: '/assets/img/3.jpg'
-        }
-		
+        },
 		{
             title: '【工具+网站】免费下载各大文库收费文档的方法（完美版）',
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbS1sd1c0a1ozV3B1aDNDP2U9Y2dsYlgz.mp4',
