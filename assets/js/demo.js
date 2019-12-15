@@ -33,19 +33,19 @@ $(function () {
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXplV01PZHMxZlZtcmJ3P2U9OGJoa3pR.mp4',
             type: 'video/mp4',
             poster: '/assets/img/3.jpg'
-        }
+        },
 		{
             title: '【工具+网站】免费下载各大文库收费文档的方法（完美版）',
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbS1sd1c0a1ozV3B1aDNDP2U9Y2dsYlgz.mp4',
             type: 'video/mp4',
             poster: '/assets/img/4.jpg'
-        }
+        },
 		{
             title: '【神器合集】两个网站，搜罗全网资源',
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBc3YxaE52QnZMN05nbTZwaGxzdEpUV3RNQlR6P2U9c3o5UXlj.mp4',
             type: 'video/mp4',
             poster: '/assets/img/5.jpg'
-        }
+        },
 		{
             title: '【抖音国际版】Tik Tok最新使用教程，可以免费观看外国的小哥哥小姐姐哟！',
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbTFiaDdrWWgwLVlqNzFiP2U9aEJzdWlo.mp4',
