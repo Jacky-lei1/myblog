@@ -23,16 +23,34 @@ $(function () {
             poster: '/assets/img/1.jpg'
         },
         {
-            title: '我的视频2',
-            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXA5WWFqNFlJVHdWNWRhP2U9bmxRdk5m.mp4',
+            title: '【贾维斯人工智能系统】深度还原Jarvis智能AI语音系统，个人电脑的私人语音管家！钢铁侠系列雨滴主题桌面',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbkRCc0QtenZKNkpxX3d2P2U9Z1dIeGxn.mp4',
             type: 'video/mp4',
 			poster: '/assets/img/2.jpg'
         },
         {
-            title: '我的视频3',
-            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXA5WWFqNFlJVHdWNWRhP2U9bmxRdk5m.mp4',
+            title: '【Kon-Boot】解决密码问题的最佳工具',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXplV01PZHMxZlZtcmJ3P2U9OGJoa3pR.mp4',
             type: 'video/mp4',
             poster: '/assets/img/3.jpg'
+        }
+		{
+            title: '【工具+网站】免费下载各大文库收费文档的方法（完美版）',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbS1sd1c0a1ozV3B1aDNDP2U9Y2dsYlgz.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/4.jpg'
+        }
+		{
+            title: '【神器合集】两个网站，搜罗全网资源',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBc3YxaE52QnZMN05nbTZwaGxzdEpUV3RNQlR6P2U9c3o5UXlj.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/5.jpg'
+        }
+		{
+            title: '【抖音国际版】Tik Tok最新使用教程，可以免费观看外国的小哥哥小姐姐哟！',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbTFiaDdrWWgwLVlqNzFiP2U9aEJzdWlo.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/6.jpg'
         }
      
     ], {
