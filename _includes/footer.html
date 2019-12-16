@@ -14,8 +14,11 @@
 <script src="{{ "/assets/js/jquery.blueimp-gallery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/demo.js" | prepend: site.baseurl }}"></script>
 
-
-</script>
-
+<script src="{{ "/assets/js/AudioPlayer.js" | prepend: site.baseurl }}"></script>
+		<script type="text/javascript">
+			$(function(){
+				$("#myAudio").initAudio();
+			});
+		</script>
 
 {% include google-analytics.html %}
