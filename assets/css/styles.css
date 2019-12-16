@@ -12,13 +12,13 @@ a ,a:hover{text-decoration: none;}
 	width: 310px;
 	border-radius: 4px 4px 0 0;
 	background:-webkit-linear-gradient(top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)) no-repeat left top,
-				url(bg.jpg) no-repeat left top;
+				url(/assets/img/bg.jpg) no-repeat left top;
 	background:-moz-linear-gradient(top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)) no-repeat left top,
-				url(bg.jpg) no-repeat left top;
+				url(/assets/img/bg.jpg) no-repeat left top;
 	background:-ms-linear-gradient(top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)) no-repeat left top,
-				url(bg.jpg) no-repeat left top;
+				url(/assets/img/bg.jpg) no-repeat left top;
 	background:linear-gradient(top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)) no-repeat left top,
-				url(bg.jpg) no-repeat left top;
+				url(/assets/img/bg.jpg) no-repeat left top;
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
@@ -256,13 +256,13 @@ a ,a:hover{text-decoration: none;}
 	width: 100px;
 	height: 20px;
 	margin-top: 5px;
-	background: url("stars.png") 0px 0px repeat-x;
+	background: url("/assets/img/stars.png") 0px 0px repeat-x;
 	position: relative;
 }
 .current-rating {
 	width: 85%;
 	height: 100%;
-	background: url("stars.png") 0px -40px repeat-x;
+	background: url("/assets/img/stars.png") 0px -40px repeat-x;
 	margin: 0;
 	padding: 0;
 }
@@ -273,7 +273,7 @@ a ,a:hover{text-decoration: none;}
 	top: 0;
 	height: 100%;
 }
-.current-rating li:hover {background: url("stars.png") 0px -20px repeat-x;}
+.current-rating li:hover {background: url("/assets/img/stars.png") 0px -20px repeat-x;}
 .current-rating .star5 {width: 100%;}
 .current-rating .star4 {width: 80%;}
 .current-rating .star3 {width: 60%;}
@@ -300,11 +300,11 @@ a ,a:hover{text-decoration: none;}
 
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot');
-	src:url('fonts/icomoon.eot?#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.woff') format('woff'),
-		url('fonts/icomoon.ttf') format('truetype'),
-		url('fonts/icomoon.svg#icomoon') format('svg');
+	src:url('/assets/fonts/icomoon.eot');
+	src:url('/assets/fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('/assets/fonts/icomoon.woff') format('woff'),
+		url('/assets/fonts/icomoon.ttf') format('truetype'),
+		url('/assets/fonts/icomoon.svg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
