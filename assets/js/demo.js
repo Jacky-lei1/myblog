@@ -16,6 +16,36 @@ $(function () {
 
     // Initialize the Gallery as video carousel:
     blueimp.Gallery([
+		{
+            title: '【吉他弹唱】— 《来自天堂的魔鬼》',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nd0dNTE5xTlo2bVVMSVpoP2U9RFptT1VG.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/tiantang.jpg'
+        },
+		{
+            title: '【吉他弹唱】— 《心如止水》',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nd0tMRGl5eUVSQWd4V0tQP2U9aWN2TVFB.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/xinru.jpg'
+        },
+		{
+            title: '【吉他弹唱】— 《我曾》',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nd09VQWR6STE1S0FaR25MP2U9QWRDVFNz.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/woceng.jpg'
+        },
+		{
+            title: '【吉他弹唱】— 《东西》',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nd1RxWG9sOUYwdlJ5bjRqP2U9Z3RPQkNZ.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/dongxi.jpg'
+        },
+		{
+            title: '【吉他演奏】— 《广东爱情故事》',
+            href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nd1Y4dHpRTFBoc0ZZR01OP2U9ZkIxNGVi.mp4',
+            type: 'video/mp4',
+            poster: '/assets/img/guangdong.jpg'
+        },
         {
             title: '【SAO Util刀剑风格启动器】—《你的名字》樱花粉主题，个性化还原',
             href: 'https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBc3YxaE52QnZMN05nbXRzN1huRlpiN3FUUlYzP2U9NHpnSG5n.mp4',
