@@ -8,6 +8,9 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
+  <!-- 标题图标-->
+  <link rel="shortcut icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}">
+  
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   
   <!-- 视频播放器样式-->
@@ -17,7 +20,9 @@
   
   <!-- 音频播放器样式-->
   <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
-     
   
+  <!-- live2D看版娘样式-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+     
   
 </head>
