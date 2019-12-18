@@ -2,10 +2,12 @@
     <p>&copy; {{site.username}}</p>
     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/Jacky-lei1">lvyelanshan</a></p>
 </footer>
+<!-- 博客主页原始脚本-->
 <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 
+<!-- 视频播放器-->
 <script src="{{ "/assets/js/blueimp-helper.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/blueimp-gallery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/blueimp-gallery-fullscreen.js" | prepend: site.baseurl }}"></script>
@@ -14,6 +16,7 @@
 <script src="{{ "/assets/js/jquery.blueimp-gallery.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/demo.js" | prepend: site.baseurl }}"></script>
 
+<!-- 音乐播放器-->
 <script src="{{ "/assets/js/AudioPlayer.js" | prepend: site.baseurl }}"></script>
 		<script type="text/javascript">
 			$(function(){
@@ -21,5 +24,24 @@
 			});
 		</script>
 
+<!-- live2D看版娘-->
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+
+<!-- Valine评论模块-->
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'r7waXQyvsCs1E7Q2a0JQqB8f-gzGzoHsz',
+            appKey: 'HWF8pxlPAz7YlJ7vU7J8oPDk',
+            notify:true, //邮箱校验
+            verify:true, //验证码
+            avatar:'retro',
+            placeholder: '留下您的足迹', //
+            recordIP: true,
+            highlight: true,
+            visitor: true,
+            pageSize:10
+        })
+</script>
 {% include google-analytics.html %}
