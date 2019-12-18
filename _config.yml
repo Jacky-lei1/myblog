@@ -13,6 +13,23 @@ twitter_username: lvyelanshan
 github_username:  Jacky-lei1
 gplus_username:  lvyelanshan
 
+
+#Valine评论模块
+valine:
+  enable: true
+  src: //unpkg.com/valine/dist/Valine.min.js
+  appId: r7waXQyvsCs1E7Q2a0JQqB8f-gzGzoHsz
+  appKey: HWF8pxlPAz7YlJ7vU7J8oPDk
+  notify: true # 评论回复邮件提醒
+  verify: true # 验证码服务
+  avatar: retro
+  placeholder: 留下您的足迹！
+  highlight: true # 代码高亮
+  avatarForce: false # 每次访问强制拉取最新的评论列表头像
+  recordIP: true # 记录评论者IP
+  pageSize: 10 #分页，每页显示10条
+
+
 # Google-analytics
 google-analytics:
   id: "UA-154317930-1"
